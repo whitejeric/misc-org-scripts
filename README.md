@@ -1,5 +1,5 @@
 # misc-org-scripts
-Some python scripts I use for file organization and creative pursuits 
+Some python scripts I use for file organization and creative pursuits.
 
 **copy_all_of_type** takes an input folder, a file type, and an output folder and copies all files of given type from the input to one combined folder. useful for extracting all audio stems from a given project for repackaging and backing up for a reformat
 
